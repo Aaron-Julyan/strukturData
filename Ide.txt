@@ -1,0 +1,5 @@
+Sebuah game menentukan platform mana yang bisa diinjak dan mudah hancur 
+untuk mencapai tujuan / finish
+Dalam game tersebut satu user menjalankan bisa lebih 1 player
+Platform ini akan berupa linked list
+(mirip squid game yang game kaca itu)
